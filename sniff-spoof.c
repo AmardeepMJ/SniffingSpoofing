@@ -1,3 +1,5 @@
+// We use this code for sniffing and spoofing. To enable sniffing, a certain part of code below has to be uncommented. 
+
 #define APP_NAME		"sniffex"
 #define APP_DESC		"Sniffer example using libpcap"
 #define APP_COPYRIGHT	"Copyright (c) 2005 The Tcpdump Group"
